@@ -1,0 +1,4 @@
+src/MuJoCo_Demonstrator/saved_models
+src/logs
+src/.ipynb_checkpoints
+src/__pycache__
