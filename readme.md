@@ -16,3 +16,5 @@
 
 ##### Visualizing the results
 1. Open `visualization.ipynb` on jupyter notebook and run all cells.  
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sanjaythakur)
