@@ -1,3 +1,5 @@
+[Link to the paper](https://arxiv.org/pdf/1910.10367.pdf)
+
 ## MuJoCo Experiments
 
 ##### Set-up
